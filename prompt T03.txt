@@ -1,0 +1,15 @@
+bertindaklah sebagai senior java developer,rancanglah  sebuah sistem yang mendukung operasional kafetaria IT Del. Di IT Del, kafetaria nya masihberoperasi secaramanual, seperti pencatatan pesanan yang masih manual (di kertas) oleh penjual, sering terjadi kesalahan/pemasakan pesanan oleh pelanggan, pelanggan yang beli pesanan tertentu ternyata stok nya sudah habis alisas tidak ada informasi eraltime untk mengetahui stok). pelanggan yang datang ke kafetaria bisa melihat daftar makanan minuman yang disediakan di kafetaria secara manual dan bertanya apakah menu/pesanan tersebut masih ready atau tidak, lalu pesnan dicatat secara manual. buatlah daftar menu yang ada di kertas itu menjadi digital, lalu sistem secara otomatis dapat menghitung total psanan/belanja yang dipesan oleh mahasiiswa agar trnasparan, jika stok habis maka pesann tidak bisa dipesan lagi. mahasiswa menginput pilihan menu, lalu memvalidasi stok ketersdiaan, buat ke dalam bahasa pemrograman java (oop) gunakan jcf seperti scanner dan laiinya hash map, array list dan lainnya yang relevan, gunakan encapsulation dan abstraction  jika perlu, jjika nim mahasiswa tiak terdaftar, maka sistem menampilkan "masukkan id yang benar" dan minta terus sampai benar dan selesai dengan "---"
+gunakan ini package driver;
+
+public class Driver3 {
+    public static void main(String[] args) {
+        
+    }
+}
+, dan model package model;
+
+public class Model3 {
+    
+}
+
+contoh input output

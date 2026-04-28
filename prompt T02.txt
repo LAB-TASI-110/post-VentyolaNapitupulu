@@ -1,0 +1,35 @@
+BERTINAKLAH SEBAGAI SOFTWARE DEVELOPER PROFESIONAL,Data stok barang disimpan dalam sebuah rak gudang yang tersusun rapi. Perhatikan pola penyimpanan pada gambar di ini untuk memahami bagaimana kelompok barang dipisahkan. Input:
+Jumlah total data (N).
+Deret stok (s1, s2, ..., sN).
+Kode kategori barang., kembangkan solusi dalam bahasa pemrograman java (pemrograman berorientasi objek) akan ada driver dan model, driver2.java :package driver;
+
+public class Driver2 {
+    public static void main(String[] args) {
+        
+    }
+} dan model2.java package model;
+
+public class Model2 {
+    
+}
+baca dan pahamilah seluruh narasi soal, dan identifikasi dan gunakanlah informasi dari gambar , perhatikan pola penyimpanan yang ada di gambar, contoh inputan Input:
+Jumlah total data (N).
+Deret stok (s1, s2, ..., sN).
+Kode kategori barang.  Buatlah program yang mampu menentukan total stok hanya untuk kategori barang yang diminta. 
+contoh input dan outputnya baagaimana?
+apasih maksud dan tujuan soal? jelasin 
+kalau ini contoh inputannya gmn 4
+Dasi_SD 22
+Gula 85
+Rok_Pramuka 5
+Minyak 120
+A
+
+maksud soal T02: Stok Gudang apa, sieuruh ngapai? jelaskn
+
+4
+Dasi_SD 2
+Gula 6
+Rok_Pramuka 9
+Minyak 12
+B
